@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Additional fielding resources
 
 ## Links to Katapult Pro's fielding training videos
