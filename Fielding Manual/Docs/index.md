@@ -163,9 +163,9 @@ At the bottom of the screen, you’ll see the distance and bearing for the dropp
 <p align="center">
 <img src="img/anchorscreen.avif" width=500>
 
-**Once all pole photos have been taken, the Main Camera Operator will mark the pole "Mark Done" and continue moving forward throughout the job.**
+**Once all pole photos have been taken and Anchor information collected, the Main Camera Operator will mark the pole "Mark Done" and continue moving forward throughout the job.**
 
-## Step 4: Uploading Photos
+# Uploading Photos
 
 - When the field crew gets back to the office, hotel, or their home, the next step in the process is to upload all field photos. We recommend offloading all photos to an external drive under a folder indicating the date and crew members' initials who collected the data. This way, if the upload gets interrupted, you still have a repository of all your fielded photos.
 >**DO NOT upload photos into Cloud-based Collaboration and Document Management Systems, such as Microsoft SharePoint. These can corrupt photo .EXIF data.**
