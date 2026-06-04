@@ -7,7 +7,7 @@ hide:
 
 ## Links to Katapult Pro's fielding training videos
 
-[How to set up Camera for Data Collection](youtube.com/watch?v=gAgeW-8rtJ0&list=PLGet9Wz8csitdW64z-tVW1XrlWyXhS_pP&index=9&pp=iAQB)
+[How to set up Camera for Data Collection](https://youtube.com/watch?v=gAgeW-8rtJ0&list=PLGet9Wz8csitdW64z-tVW1XrlWyXhS_pP&index=9&pp=iAQB)
 
 [Midspan Height Shot](youtube.com/watch?v=o2ph9HBitNA&list=PLGet9Wz8csitdW64z-tVW1XrlWyXhS_pP&index=1&pp=iAQB)
 
