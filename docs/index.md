@@ -1,6 +1,6 @@
-<h1 align="center">Katapult Fielding Manual</h1>
+# Katapult Fielding Manual
 
-# Mobile Interface
+## Mobile Interface
 
 Field collection in Katapult Pro is centered around photo documentation and the mobile interface. To access it, open Google Chrome on your device and go to katapultpro.com/mobile. (Safari can work on iOS devices as well, though we recommend using Chrome.)
 
@@ -32,13 +32,13 @@ Under settings, there are many helpful options that may assist in field collecti
 </p>
 
 
-# Data Collection
+## Data Collection
 
 The fielding crew will roughly follow the photo documentation outlined in the flow chart
 
 <img src="img/flowchart1.avif" width="600">
 
-## step 1: take Sync Shot
+### step 1: take Sync Shot
 
 <p align="center">
 <img src="img/sync.jpg" width="300">
@@ -46,9 +46,9 @@ The fielding crew will roughly follow the photo documentation outlined in the fl
 
 Take a photo of the sync shot screen with any and all cameras being used to collect data. These photos will allow the software to recognize the offset between camera photos and the actual time, associating all photos to the correct locations.
 
-## Step 2: Collecting Midspan Data
+### Step 2: Collecting Midspan Data
 
-### Big Camera (or Main Camera) Operator's responsibilities:
+#### Big Camera (or Main Camera) Operator's responsibilities:
 
 - **Confirm Design** - Use the mobile field tools to draw, move, and edit nodes, references, and connections to match existing conditions.
   
@@ -66,7 +66,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 <img src="img/webappdone.jpg" height="400" width="200">
 </p>
 
-### Height Stick Operator's responsiblities:
+#### Height Stick Operator's responsiblities:
 
 - **Safety** - Be mindful and careful of road crossings and traffic when collecting midspan data. Lower the height stick from the top section down (as needed) to avoid coming into contact with conductors.
 
@@ -74,7 +74,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 
 - **Communication** - Make sure to communicate with your partner to ensure they know which overhead lines you are standing underneath so they can mark the correct span "done."
 
-## Step 3: Collect Pole Data
+### Step 3: Collect Pole Data
 
 >It is critical to follow Katapult's Height Photo Best Practices during this process. 
 >>Pole height Photo Best Practices:
@@ -89,7 +89,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 >> <img src="img/framing.jpg" width=200 height=300>
 >></p>
 
-### Main Camera Operator's responsibilities
+#### Main Camera Operator's responsibilities
 
 - **Confirm Design** - Use mobile tools to ensure that the job design matches existing conditions.
 
@@ -119,7 +119,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 <img src="img/transfomersize.jpg" height="300">
 </p>
 
-### Height Stick Operator responsibilities
+#### Height Stick Operator responsibilities
 - **Holding the height stick** - The most important photo taken at the pole is typically the height photo, which means the Height Stick Operator's first priority is typically holding the height stick in an optimal position for the Main Camera Operator to get a clear height photo. Make sure the height stick is flush against the pole and that it follows the natural lean of the pole, if applicable.
   
   >**There should be no space between the height stick and the pole as you hold it up against the pole**. If you leave space, this could adversely affect your height measurements. Be sure to keep all calibration targets visible and alert your partner of risers or other equipment that may require taking your height photo from a different angle.
@@ -160,7 +160,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 <img src="img/anchor1.jpg" width="200">
 </p>
 
-## Step 3.1: Collecting Anchor & Downguy Information
+### Step 3.1: Collecting Anchor & Downguy Information
 >**[Click here to watch katapult's video on collecting Anchor & Downguys](https://www.youtube.com/watch?v=M5HJFqtu2sc&list=PLGet9Wz8csitdW64z-tVW1XrlWyXhS_pP&index=6)**
 
 Entering anchor information is a critical portion of the Katapult Pro fielding process.
@@ -197,7 +197,7 @@ At the bottom of the screen, you’ll see the distance and bearing for the dropp
 
 **Once all pole photos have been taken, the Main Camera Operator will mark the pole "Mark Done" and continue moving forward throughout the job**
 
-# Uploading Photos
+## Uploading Photos
 
 - When the field crew gets back to the office, hotel, or their home, the next step in the process is to upload all field photos. We recommend offloading all photos to an external drive under a folder indicating the date and crew members' initials who collected the data. This way, if the upload gets interrupted, you still have a repository of all your fielded photos.
 
@@ -227,7 +227,7 @@ At the bottom of the screen, you’ll see the distance and bearing for the dropp
 - **Make sure that you keep the tab running with consistent Internet connection while your photos upload! Otherwise they might look completely gray with an "Error" text on it and will need to be re-uploaded**. Once the photos have been successfully uploaded, back-office processing can begin.
 
 
-# Mobile-Only Tools
+## Mobile-Only Tools
 
 You can access your mobile toolset at any time by clicking/touching the dropper in the center of the screen. There are a few tools that are specific to mobile that will be necessary for data collection in the field.
 
