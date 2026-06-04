@@ -1,11 +1,17 @@
-site_name: Fielding Manual
+site_name: ATCO Katapult Fielding Manual
 
 theme:
   name: material
   features:
     - navigation.sections
+    - navigation.expand
     - navigation.top
-    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+plugins:
+  - search
 
 markdown_extensions:
   - toc:
@@ -14,4 +20,4 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - Manual: index.md
+  - Home: index.md
