@@ -1,0 +1,7 @@
+site_name: ATCO Katapult Fielding Manual
+
+theme:
+  name: manual
+
+nav:
+  - Home: index.md
