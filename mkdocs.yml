@@ -6,9 +6,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - toc.integrate
     - search.suggest
     - search.highlight
-    - toc.follow
 
 plugins:
   - search
