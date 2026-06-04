@@ -74,7 +74,7 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 
 - **Communication** - Make sure to communicate with your partner to ensure they know which overhead lines you are standing underneath so they can mark the correct span "done."
 
-### Step 3: Collect Pole Data
+### Step 3: Collect Pole Height Photo & Data
 
 >It is critical to follow Katapult's Height Photo Best Practices during this process. 
 >>Pole height Photo Best Practices:
