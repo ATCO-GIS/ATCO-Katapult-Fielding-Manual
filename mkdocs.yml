@@ -22,5 +22,6 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Welcome: Welcome.md
   - Manual: index.md
   - Additional Resources: fielding resources.md
