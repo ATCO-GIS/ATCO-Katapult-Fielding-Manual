@@ -5,7 +5,7 @@ hide:
 
 # Additional fielding resources
 
-If you have questions about functions used on the backend data processing, The [ATCO Katapult Use Manual](https://atco-gis.github.io/Katapult.Use.Manual_Copy/) contains all necessary information for using Katapult Pro to process the Data collected in the field for classification and annotating.
+If you have questions about functions used on the backend data processing, The [ATCO Katapult Use Manual](https://atco-gis.github.io/Katapult.Use.Manual_Copy/) contains all necessary information for using Katapult Pro to process the data collected in the field for classification and annotation as well as all general Katapult Pro uses.
 
 ## Links to Katapult Pro's fielding training videos
 
