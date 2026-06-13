@@ -77,12 +77,13 @@ Take a photo of the sync shot screen with any and all cameras being used to coll
 ### Step 3: Collect Pole Height Photo & Data
 
 >It is critical to follow Katapult's Height Photo Best Practices during this process. 
->>Pole height Photo Best Practices:
 >>- The height stick must be straight and flat against the pole - **If the fielder’s hand is between the pole and the height stick, there is at least a hand’s-depth of space, maybe more**. If the fielder’s hand is on the outside of the height stick pressing it against the pole, it is more likely there is no space between the height stick and the pole.
 >>- **Stand at approximately a 45 degree angle from the pole** - This angle is best to capture any bisecting down guys (as well as any equipment that may otherwise be obstructed by any crossarms) to provide the most visibility of the pole’s attachments for those working in the back office.
+
 >><p align="center">
 >><img src="img/heightangle.jpg">
 >></p>
+
 >>- Stand at least a pole’s length away when taking the photo - Standing too close to the pole will introduce parallax, which will make taking an inaccurate photo more likely.
 >>- Frame the photo so there is sky above and ground below the pole - Ensuring proper framing around the pole not only reduces parallax, but it also provides additional environmental context for the back office to understand what is surrounding the pole (reference below).
 >> <p align="center">
